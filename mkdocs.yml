@@ -7,7 +7,7 @@ site_author: IBM Developer
 repo_name: projects
 repo_url: https://github.com/vedantmadane/projects
 # Change the middle parameter to the default branch, "master" or "main"
-edit_uri: edit/master/docs
+edit_uri: edit/main/docs
 
 # Navigation
 nav:
